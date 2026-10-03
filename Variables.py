@@ -7,3 +7,7 @@ print(y)
 x = 43
 x = x + 1
 print(x)
+
+5
+x = 5
+x + 1
