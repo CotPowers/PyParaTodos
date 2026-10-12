@@ -9,3 +9,7 @@ def muestra_estribillo():
 
 repite_estribillo()
 
+# Soy un leñador, que alegría.
+# Duermo toda la noche y trabajo todo el día.
+# Soy un leñador, que alegría.
+# Duermo toda la noche y trabajo todo el día.
