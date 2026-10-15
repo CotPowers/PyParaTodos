@@ -2,3 +2,5 @@
 
 fruta = 'banana'
 print(fruta[:])
+
+# banana de inicio a fin

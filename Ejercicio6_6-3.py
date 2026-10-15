@@ -9,4 +9,4 @@ def cuenta(cadena, letra_buscada):
 # Ejemplos de uso:
 print(cuenta("banana", "a"))  # Devuelve 3
 print(cuenta("murcielago", "u"))  # Devuelve 1
-print(cuenta("esternocleidomastoideo", "o"))  # Devuelve 3
+print(cuenta("esternocleidomastoideo", "o"))  # Devuelve 4
