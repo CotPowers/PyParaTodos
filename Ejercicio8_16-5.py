@@ -14,7 +14,7 @@ try:
             if len(palabras) < 2:
                 continue
 
-            # La segunda palabra (índice 1) es el remitente
+            
             print(palabras[1])
             contador += 1
 
