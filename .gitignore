@@ -1,3 +1,4 @@
 *.txt
 MiniRetos/
 Recursos/
+.venv/
